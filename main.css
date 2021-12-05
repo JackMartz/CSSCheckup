@@ -1,0 +1,42 @@
+div {
+    color:deepskyblue;
+
+}
+p {
+    color: papayawhip;
+}
+
+
+li {
+    font-family: Luminari, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border: 5px solid springgreen;
+    margin-left: 300px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-right: 300px;
+    background-color: aqua;
+}
+#Ultimate {
+    color:rgba(40, 11, 109, 0.479);
+
+}
+h1 {
+    border: 2px;
+    border-color: skyblue;
+    color: floralwhite;
+}
+h2 {
+    color: greenyellow;
+}
+.passive {
+    color:steelblue;
+}
+body {
+    background-image:
+url(https://ddragon.leagueoflegends.com/cdn/img/champion/splash/AurelionSol_0.jpg);
+}
+img {
+    border: 2px solid coral;
+    height: fit-content;
+    width: fit-content;
+}
